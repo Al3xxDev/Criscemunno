@@ -108,6 +108,7 @@ Criscemunno/
 ├── index.html               # Main entry HTML document
 ├── index.css                # Styling rules & design tokens
 ├── index.js                 # Interactive scripts & hours validation
+├── robots.txt               # Instructions to block search engine indexation
 └── README.md                # Project documentation (this file)
 ```
 
